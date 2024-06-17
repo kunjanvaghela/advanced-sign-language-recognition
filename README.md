@@ -73,4 +73,4 @@ My contribution to this group project was the implementation, training, and eval
 2. [VGG16 Model](https://example.com/vgg16)
 3. [InceptionV3 Model](https://example.com/inceptionv3)
 
-For more details, please refer to the [project report](https://example.com/project-report).
+For more details, please refer to the [project report]("Advancing Sign Language Recognition.pdf") <a name="Advancing Sign Language Recognition.pdf"></a>.
